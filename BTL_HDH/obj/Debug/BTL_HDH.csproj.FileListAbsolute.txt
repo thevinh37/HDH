@@ -1,0 +1,10 @@
+E:\Hệ điều hành\BTL_HDH\BTL_HDH\bin\Debug\BTL_HDH.exe.config
+E:\Hệ điều hành\BTL_HDH\BTL_HDH\bin\Debug\BTL_HDH.exe
+E:\Hệ điều hành\BTL_HDH\BTL_HDH\bin\Debug\BTL_HDH.pdb
+E:\Hệ điều hành\BTL_HDH\BTL_HDH\obj\Debug\BTL_HDH.csprojAssemblyReference.cache
+E:\Hệ điều hành\BTL_HDH\BTL_HDH\obj\Debug\BTL_HDH.Form1.resources
+E:\Hệ điều hành\BTL_HDH\BTL_HDH\obj\Debug\BTL_HDH.Properties.Resources.resources
+E:\Hệ điều hành\BTL_HDH\BTL_HDH\obj\Debug\BTL_HDH.csproj.GenerateResource.cache
+E:\Hệ điều hành\BTL_HDH\BTL_HDH\obj\Debug\BTL_HDH.csproj.CoreCompileInputs.cache
+E:\Hệ điều hành\BTL_HDH\BTL_HDH\obj\Debug\BTL_HDH.exe
+E:\Hệ điều hành\BTL_HDH\BTL_HDH\obj\Debug\BTL_HDH.pdb
